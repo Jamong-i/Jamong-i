@@ -29,7 +29,7 @@
 </p>
 
 #
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Kim-Phillip&show_icons=true&theme=tokyonight)&nbsp;&nbsp;
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Kim-Phillip&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Phillip&layout=compact&theme=tokyonight)
 
 </div>
