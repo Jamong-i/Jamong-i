@@ -4,12 +4,12 @@
 <p>My main skill is Swfit, Python.</p>
 <p>I'm doing 1 commit a day as much as I can to become a growing developer.</p>
 
-
-<h2> ⚾️ My hobby </h2>
+#
+<h3> ⚾️ My hobby </h3>
 <p> ⚾️ Baseball / 👨🏻‍💻 programming / 🎧 music / 🖥 Youtube / 🕹 Games </p>
 
-
-<h2> 💡Tech Stack💡</h2>
+#
+<h3> 💡Tech Stack💡</h3>
 <p>
 <img src="https://img.shields.io/badge/Swift-orange?style=flat&logo=Swift&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Python-blue?style=flat&logo=Python&logoColor=white"/>&nbsp;&nbsp;
@@ -27,13 +27,13 @@
 <img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/>&nbsp;&nbsp;
 </p>
-
-## 👨🏻‍💻 GitHub stats
+#
+<h3>👨🏻‍💻 GitHub stats</h3>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKim-Phillip&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Kim-Phillip&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Phillip&layout=compact&theme=tokyonight)
-
-## 🏅 Baekjoon solved rank
+#
+<h3>🏅 Baekjoon solved rank</h3>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minpolaris)](https://solved.ac/minpolaris/)
 </div>
