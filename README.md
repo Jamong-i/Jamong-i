@@ -1,16 +1,35 @@
-### Hi there 👋
+<div align="center">
+<h3>👨🏻‍💻 Kim-Phillip 🇰🇷</h3>
+<p>Hello, I'm an iOS developer.</p>
+<p>My main skill is Swfit, Python.</p>
+<p>I'm doing 1 commit a day as much as I can to become a growing developer.</p>
 
-<!--
-**Kim-Phillip/Kim-Phillip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#
+<h3> ⚾️ My hobby </h3>
+<p> ⚾️ Baseball / 👨🏻‍💻 programming / 🎧 music / 🖥 Youtube / 🕹 Games </p>
 
-Here are some ideas to get you started:
+#
+<h3> 💡Tech Stack💡</h3>
+<p>
+<img src="https://img.shields.io/badge/Swift-orange?style=flat&logo=Swift&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Python-blue?style=flat&logo=Python&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Selenium-9cf?style=flat&logo=Selenium&logoColor=Green"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/PyQt-lightgrey?style=flat&logo=Qt&logoColor=Green"/>&nbsp;&nbsp;
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+<img src="https://img.shields.io/badge/Xcode-white?style=flat&logo=xcode&logoColor=blue"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/PyCharm-brightgreen?style=flat&logo=Pycharm&logoColor=black"/>&nbsp;&nbsp;
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Notion-b4f5bd?style=flat&logo=Notion&logoColor=black"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/>&nbsp;&nbsp;
+</p>
+
+#
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Kim-Phillip&show_icons=true&theme=tokyonight)&nbsp;&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Phillip&layout=compact&theme=tokyonight)&nbsp;&nbsp;
+
+</div>
