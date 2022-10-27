@@ -1,5 +1,5 @@
 <div align="center">
-<h2>👨🏻‍💻 Kim-Phillip 🇰🇷</h2>
+<h2>👨🏻‍💻 Jamong 🇰🇷</h2>
 <p>Hello, I'm iOS developer.</p>
 <p>My main skill is Swfit, Python.</p>
 <p>I'm doing 1 commit a day as much as I can to become a growing developer.</p>
